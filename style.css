@@ -65,4 +65,5 @@ p {
     object-fit: cover;
     border-radius: 10px;
     border-radius: 50%;
+    aspect-ratio: 1/1;
 }
